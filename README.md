@@ -10,8 +10,13 @@
 💬 Ask me about : Web development (frontend & backend), creative coding, UI/UX design, or how to go from “idea” → “live project” in under a week.   
 
 
-<div align="center">
+<!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
+       alt="snake" /></a>
+</div> -->
+
+<div align="center">
+  <img  src="https://github.com/nimeduhansaka/word-shaking/blob/main/resources/nimedu-shake.svg"
        alt="snake" /></a>
 </div>
 
