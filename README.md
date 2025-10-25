@@ -1,11 +1,18 @@
-# 💫 About Me:
-💫 **Nimedu Hansaka**  
-🔭 I’m currently working on : Building engaging full-stack web applications and creative digital experiences — with about 3 years of hands-on experience and 10+ real-world projects under my belt.  
-👯 I’m looking to collaborate on : Projects that blend user-centric design with clean code — whether that’s a web app, a creative dev experience, or a hybrid “full-stack + creative” initiative.  
+
+# 💫 **Nimedu Hansaka** 
+
+🔭 I’m currently working on : Building engaging full-stack web applications and creative digital experiences with about 3 years of hands-on experience and 10+ real-world projects under     my belt.
+
+👯 I’m looking to collaborate on : Projects that blend user-centric design with clean code whether that’s a web app, a creative dev experience, or a hybrid “full-stack + creative”         initiative.  
+
 🤝 I’m looking for help with : Expanding my dev network, getting feedback on architecture/design decisions, and learning best practices in scalable web systems.  
-🌱 I’m currently learning : Advanced React/Next.js patterns, TypeScript at scale, cloud deployment workflows (AWS/GCP), and branching into data-science side gigs.  
+
+🌱 I’m currently learning : Advanced React/Next.js patterns, TypeScript at scale, cloud deployment workflows (AWS/GCP), and branching into data-science side gigs. 
+
 💬 Ask me about : Web development (frontend & backend), creative coding, UI/UX design, or how to go from “idea” → “live project” in under a week.  
+
 ⚡ Fun fact : I once built a portfolio website in a weekend where the only requirement was *“dark mode and minimalist”*. (It still gets comments.)  
+
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
