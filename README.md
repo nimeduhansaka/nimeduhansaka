@@ -1,5 +1,5 @@
 
-# 💫 **Nimedu Hansaka** 
+# ☢️ **Nimedu Hansaka** 
 
 🔭 I’m currently working on : Building engaging full-stack web applications and creative digital experiences with about 3 years of hands-on experience and 10+ real-world projects under     my belt.
 
